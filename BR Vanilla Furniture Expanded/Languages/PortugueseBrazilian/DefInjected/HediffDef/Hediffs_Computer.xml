@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+<!--
   <Computer_LearningBoost.label>Learning Boost</Computer_LearningBoost.label>
   <Computer_LearningBoost.description>Learning boost due to computer activity</Computer_LearningBoost.description>
   <Computer_LearningBoost.stages.0.label>Minor</Computer_LearningBoost.stages.0.label>
   <Computer_LearningBoost.stages.1.label>Major</Computer_LearningBoost.stages.1.label>
   <Computer_LearningBoost.stages.2.label>Max</Computer_LearningBoost.stages.2.label>
+  -->
+    <Computer_LearningBoost.label>Impulso de aprendizado</Computer_LearningBoost.label>
+  <Computer_LearningBoost.description>Impulso de aprendizado devido à atividade no computador</Computer_LearningBoost.description>
+  <Computer_LearningBoost.stages.0.label>Menor</Computer_LearningBoost.stages.0.label>
+  <Computer_LearningBoost.stages.1.label>Maior</Computer_LearningBoost.stages.1.label>
+  <Computer_LearningBoost.stages.2.label>Máxima</Computer_LearningBoost.stages.2.label>
 
 
 </LanguageData>

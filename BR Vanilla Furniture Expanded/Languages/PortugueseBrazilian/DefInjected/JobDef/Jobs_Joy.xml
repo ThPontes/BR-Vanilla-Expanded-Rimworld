@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+<!--
   <Play_Roulette.reportString>playing roulette.</Play_Roulette.reportString>
   <Play_Arcade.reportString>playing arcade game.</Play_Arcade.reportString>
   <Play_Piano.reportString>playing piano.</Play_Piano.reportString>
@@ -8,6 +8,14 @@
   <Play_PunchingBag.reportString>using punching bag.</Play_PunchingBag.reportString>
   <Play_ComputerIndustrial.reportString>using computer.</Play_ComputerIndustrial.reportString>
   <Play_ComputerModern.reportString>using computer.</Play_ComputerModern.reportString>
+-->
 
+  <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
+  <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
+  <Play_Piano.reportString>tocando piano.</Play_Piano.reportString>
+  <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
+  <Play_PunchingBag.reportString>usando saco de areia.</Play_PunchingBag.reportString>
+  <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
+  <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
 
 </LanguageData>
