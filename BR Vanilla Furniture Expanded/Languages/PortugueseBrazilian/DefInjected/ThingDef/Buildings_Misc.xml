@@ -1,21 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Light_Streetlamp.label>outdoor lamp</Light_Streetlamp.label>
-  <Light_Streetlamp.description>A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night.</Light_Streetlamp.description>
+  <!-- EN: outdoor lamp -->
+  <Light_Streetlamp.label>Lâmpada externa</Light_Streetlamp.label>
+  <!-- EN: A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
+  <Light_Streetlamp.description>Uma lâmpada elétrica alta que ilumina uma área, capaz de ser colocada no exterior sem pegar fogo, tornando-a ideal para iluminação de estradas e só acende à noite.</Light_Streetlamp.description>
+  <!-- EN: Desligado durante o dia -->
   <Light_Streetlamp.comps.1.offMessage>Off during daylight hours</Light_Streetlamp.comps.1.offMessage>
 
-  <Misc_FileCabinet.label>file cabinet</Misc_FileCabinet.label>
-  <Misc_FileCabinet.description>A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster.</Misc_FileCabinet.description>
+  <!-- EN: file cabinet -->
+  <Misc_FileCabinet.label>armário de arquivo</Misc_FileCabinet.label>
+  <!-- EN: A piece of furniture used for organising documents and records in paper form. It will help you perform research taks faster. -->
+  <Misc_FileCabinet.description>Um móvel usado para organizar documentos e registros em papel. Isso ajudará você a realizar tarefas de pesquisa mais rapidamente.</Misc_FileCabinet.description>
 
-  <Shelf_WeaponRack.label>weapon rack</Shelf_WeaponRack.label>
-  <Shelf_WeaponRack.description>A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside.</Shelf_WeaponRack.description>
+  <!-- EN: weapon rack -->
+  <Shelf_WeaponRack.label>rack de armas</Shelf_WeaponRack.label>
+  <!-- EN: A heavy duty rack for storing weaponry. Weapons stored in this will not deteriorate, even if outside. -->
+  <Shelf_WeaponRack.description>Um rack resistente para armazenar armamento. Armas armazenadas nele não se deteriorarão, mesmo que estejam do lado de fora.</Shelf_WeaponRack.description>
 
-  <Bin_Small.label>Small bin</Bin_Small.label>
-  <Bin_Small.description>A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius.</Bin_Small.description>
+  <!-- EN: Small bin -->
+  <Bin_Small.label>lixeira pequena</Bin_Small.label>
+  <!-- EN: A small bin to help keeping the area around it somewhat clean. Slowly removes trash and filth in a 10 Cell radius. -->
+  <Bin_Small.description>Uma pequena lixeira para ajudar a manter a área ao redor um pouco limpa. Lentamente remove lixo e sujeira em um raio de 10 células.</Bin_Small.description>
 
-  <Bin_Large.label>Large bin</Bin_Large.label>
-  <Bin_Large.description>A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius.</Bin_Large.description>
+  <!-- EN: large bin -->
+  <Bin_Large.label>lixeira grande</Bin_Large.label>
+  <!-- EN: A large bin to help keeping the area around it clean. Slowly removes trash and filth in a 20 Cell radius. -->
+  <Bin_Large.description>Uma lixeira grande para ajudar a manter a área ao redor limpa. Lentamente remove lixo e sujeira em um raio de 20 Células.</Bin_Large.description>
 
 
 </LanguageData>

@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Table_LightEndTable.label>lamp end table</Table_LightEndTable.label>
-  <Table_LightEndTable.description>A small bedside table that has been adorned with a light, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</Table_LightEndTable.description>
+  <!-- EN: lamp end table -->
+  <Table_LightEndTable.label>mesa de cabeceira com lâmpada</Table_LightEndTable.label>
+  <!-- EN: A small bedside table that has been adorned with a light, making nearby beds more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <Table_LightEndTable.description>Uma pequena mesa de cabeceira que foi adornada com uma luz, tornando as camas próximas mais confortáveis. Deve ser colocado diretamente adjacente à cabeceira da cama. Colocar mais de uma mesa de canto perto da mesma cama não tem efeito.</Table_LightEndTable.description>
 
 
 </LanguageData>

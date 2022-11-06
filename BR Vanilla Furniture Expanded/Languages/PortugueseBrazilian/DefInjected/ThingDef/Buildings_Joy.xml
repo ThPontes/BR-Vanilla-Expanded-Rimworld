@@ -1,32 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Radio_Industrial.label>industrial radio</Radio_Industrial.label>
-  <Radio_Industrial.description>An old device from a bygone era, it is able to pick up radio waves and play them back. Even on the rimworlds, there is often an old transmitter or lone radio station broadcasting something.</Radio_Industrial.description>
+  <!-- EN: industrial radio -->
+  <Radio_Industrial.label>rádio industrial</Radio_Industrial.label>
+  <!-- EN: An old device from a bygone era, it is able to pick up radio waves and play them back. Even on the rimworlds, there is often an old transmitter or lone radio station broadcasting something. -->
+  <Radio_Industrial.description>Um dispositivo antigo de uma era passada, é capaz de captar ondas de rádio e reproduzi-las. Mesmo nos rimworlds, muitas vezes há um transmissor antigo ou estação de rádio solitária transmitindo alguma coisa.</Radio_Industrial.description>
 
-  <Radio_Spacer.label>longwave radio</Radio_Spacer.label>
-  <Radio_Spacer.description>A high tech radio reciever that is able to pick up very faint signals and play them back at crystal clear quality.</Radio_Spacer.description>
+  <!-- EN: longwave radio -->
+  <Radio_Spacer.label>rádio de ondas longas</Radio_Spacer.label>
+  <!-- EN: A high tech radio reciever that is able to pick up very faint signals and play them back at crystal clear quality. -->
+  <Radio_Spacer.description>Um receptor de rádio de alta tecnologia que é capaz de captar sinais muito fracos e reproduzi-los com qualidade cristalina.</Radio_Spacer.description>
 
-  <Joy_Arcade.label>arcade machine</Joy_Arcade.label>
-  <Joy_Arcade.description>A tall cabinet that holds a small cathode ray display and control panel for playing a variety of pre-installed games.</Joy_Arcade.description>
+  <!-- EN: arcade machine -->
+  <Joy_Arcade.label>máquina de fliperama</Joy_Arcade.label>
+  <!-- EN: A tall cabinet that holds a small cathode ray display and control panel for playing a variety of pre-installed games. -->
+  <Joy_Arcade.description>Um gabinete alto que contém um pequeno display de raios catódicos e painel de controle para jogar uma variedade de jogos pré-instalados.</Joy_Arcade.description>
 
+  <!-- EN: computador antigo -->
   <Joy_InudstrialComputer.label>old computer</Joy_InudstrialComputer.label>
-  <Joy_InudstrialComputer.description>A desktop computer based off an old design, very inefficient and prone to crashing. Gives a minor boost to learning after use.</Joy_InudstrialComputer.description>
+  <!-- EN: A desktop computer based off an old design, very inefficient and prone to crashing. Gives a minor boost to learning after use. -->
+  <Joy_InudstrialComputer.description>Um computador desktop baseado em um design antigo, muito ineficiente e propenso a travar. Dá um pequeno impulso ao aprendizado após o uso.</Joy_InudstrialComputer.description>
 
-  <Joy_ModernComputer.label>modern computer</Joy_ModernComputer.label>
-  <Joy_ModernComputer.description>A high tech computer with utilising an LCD monitor and better performance parts that are less prone to crashing. Gives a boost to learning after use.</Joy_ModernComputer.description>
+  <!-- EN: modern computer -->
+  <Joy_ModernComputer.label>computador moderno</Joy_ModernComputer.label>
+  <!-- EN: A high tech computer with utilising an LCD monitor and better performance parts that are less prone to crashing. Gives a boost to learning after use. -->
+  <Joy_ModernComputer.description>Um computador de alta tecnologia com a utilização de um monitor LCD e peças de melhor desempenho que são menos propensas a travar. Dá um impulso à aprendizagem após o uso.</Joy_ModernComputer.description>
 
+  <!-- EN: piano -->
   <Joy_Piano.label>piano</Joy_Piano.label>
-  <Joy_Piano.description>A large playable piano for practising on, quite enjoyable and it is a great way to develop artistic talent.</Joy_Piano.description>
+  <!-- EN: A large playable piano for practising on, quite enjoyable and it is a great way to develop artistic talent. -->
+  <Joy_Piano.description>Um grande piano tocável para praticar, bastante agradável e é uma ótima maneira de desenvolver o talento artístico.</Joy_Piano.description>
 
-  <Joy_RouletteTable.label>roulette table</Joy_RouletteTable.label>
-  <Joy_RouletteTable.description>A soft-topped bounded table with a wheel for playing roulette, a good way to train your social skills and luck.</Joy_RouletteTable.description>
+  <!-- EN: roulette table -->
+  <Joy_RouletteTable.label>mesa de roleta</Joy_RouletteTable.label>
+  <!-- EN: A soft-topped bounded table with a wheel for playing roulette, a good way to train your social skills and luck. -->
+  <Joy_RouletteTable.description>Uma mesa de tampo macio com uma roda para jogar roleta, uma boa maneira de treinar suas habilidades sociais e sorte.</Joy_RouletteTable.description>
 
-  <Joy_DartsBoard.label>darts board</Joy_DartsBoard.label>
-  <Joy_DartsBoard.description>A popular game among rimworlds involving throwing darts at a circular target, It's relaxing, and trains shooting skills at a higher rate than horseshoes or hoopstone.</Joy_DartsBoard.description>
+  <!-- EN: darts board -->
+  <Joy_DartsBoard.label>placa de dardos</Joy_DartsBoard.label>
+  <!-- EN: A popular game among rimworlds involving throwing darts at a circular target, It's relaxing, and trains shooting skills at a higher rate than horseshoes or hoopstone. -->
+  <Joy_DartsBoard.description>Um jogo popular entre os rimworlds envolvendo o lançamento de dardos em um alvo circular, é relaxante e treina habilidades de tiro a uma taxa mais alta do que ferraduras ou argolas.</Joy_DartsBoard.description>
 
-  <Joy_PunchingBag.label>punching bag</Joy_PunchingBag.label>
-  <Joy_PunchingBag.description>A fabric filled punching bag to let out anger on. Can be quite calming and helps to train melee ability.</Joy_PunchingBag.description>
+  <!-- EN: punching bag -->
+  <Joy_PunchingBag.label>saco de pancadas</Joy_PunchingBag.label>
+  <!-- EN: A fabric filled punching bag to let out anger on. Can be quite calming and helps to train melee ability. -->
+  <Joy_PunchingBag.description>Um saco de pancadas cheio de tecido para soltar a raiva. Pode ser bastante calmante e ajuda a treinar a habilidade corpo a corpo.</Joy_PunchingBag.description>
 
 
 </LanguageData>
