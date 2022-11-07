@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Vanilla Animals Expanded</name>
-	<author>Sarg Bjornson, Oskar Potocki</author>
+	<name>BR - Vanilla Animals Expanded</name>
+	<author>Zecão</author>
 	<supportedVersions>
 		
 	
@@ -23,8 +23,9 @@
 	</modDependencies>
 	<loadAfter>
 		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>VanillaExpanded.VanillaAnimalsExpanded</li>
 	</loadAfter>
-	<packageId>VanillaExpanded.VanillaAnimalsExpanded</packageId>
+	<packageId>BR.VanillaExpanded.VanillaAnimalsExpanded</packageId>
 	<description>Vanilla Animals Expanded is a large mod that contains almost all previous Vanilla Animals Expanded modules, this time merged into one big mod. Fear not, however - last thing we want is to bloat your game: you can now disable individual animals in mod options! You can only enable the animals that appear in your biome if you want.
 
 The reason we merged all the animal mods is because they are finished - the only new animals we have planned fit into standalone packs. We have already covered all the biomes, so it’s only proper we clean it up and make it into one big mod.
