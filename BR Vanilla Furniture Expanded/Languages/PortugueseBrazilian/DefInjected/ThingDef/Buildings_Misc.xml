@@ -5,8 +5,8 @@
   <Light_Streetlamp.label>Lâmpada externa</Light_Streetlamp.label>
   <!-- EN: A tall electrical lamp that lights an area, able to be placed outside without catching fire, making it ideal for road lighting and only turns on at night. -->
   <Light_Streetlamp.description>Uma lâmpada elétrica alta que ilumina uma área, capaz de ser colocada no exterior sem pegar fogo, tornando-a ideal para iluminação de estradas e só acende à noite.</Light_Streetlamp.description>
-  <!-- EN: Desligado durante o dia -->
-  <Light_Streetlamp.comps.1.offMessage>Off during daylight hours</Light_Streetlamp.comps.1.offMessage>
+  <!-- EN: Off during daylight hours -->
+  <Light_Streetlamp.comps.1.offMessage>Desligado durante o dia</Light_Streetlamp.comps.1.offMessage>
 
   <!-- EN: file cabinet -->
   <Misc_FileCabinet.label>armário de arquivo</Misc_FileCabinet.label>
